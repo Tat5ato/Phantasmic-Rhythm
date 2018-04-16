@@ -1,5 +1,5 @@
 # Phantom Beat
-This will be our new Github for this project
+The following links are project boards for specific teams. Click to go to the boards. 
 
 
 ## External Links: 
